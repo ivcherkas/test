@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1. Changes by sergey 
 2. Deleted text
 
+=======
+1. Changes by sergey
+2. Changes by Nikolay
+>>>>>>> 4c9a3e2a61e49792e11b315e86e5289175d6ede7
